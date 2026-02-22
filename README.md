@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Roman</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&center=true&vCenter=true&width=600&repeat=false&lines=Hi+👋,+I'm+Roman">
+</p>
 <h3 align="center">A passionate self-taught backend developer from Belarus</h3>
 <img width="250px" src="https://raw.githubusercontent.com/romanmakarov6666/romanmakarov6666/main/assets/1648475937_489173_gif-url.gif" width="400">
 <p align="left">
