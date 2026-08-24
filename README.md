@@ -1,23 +1,29 @@
+<h1 align="center">Roman</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&center=true&vCenter=true&width=600&repeat=false&lines=Hi+👋,+I'm+Roman">
+  Backend developer focused on Java, Spring, and building efficient systems.
 </p>
-<h3 align="center">A passionate self-taught backend developer from Belarus</h3>
-<img width="250px" src="https://raw.githubusercontent.com/romanmakarov6666/romanmakarov6666/main/assets/1648475937_489173_gif-url.gif" width="400">
-<p align="left">
-💻 I build backend applications with Java & Spring  <br>
-🚀 Currently learning: Postgresql <br> 
-🎯 Goal: Become a professional backend engineer  <br>
-</p>
-<hr>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/roman-makarov-1262b0325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roman-makarov-1262b0325" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/di0jkpymcc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="di0jkpymcc" height="30" width="40" /></a>
-</p>
-<hr>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-<h3>Leetcode Badges:</h3>
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=di0jkpymcc&theme=github-dark" alt="LeetCode Badges" />
 
+<p align="center">
+  <a href="https://linkedin.com/in/roman-makarov-1262b0325">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin">
+  </a>
+  <a href="https://www.leetcode.com/di0jkpymcc">
+    <img src="https://img.shields.io/badge/LeetCode-di0jkpymcc-orange?style=flat-square&logo=leetcode">
+  </a>
+</p>
 
+---
+
+### About me
+
+- Backend development with **Java, Spring Boot, SQL, and Docker**
+- Interested in **performance, networking, algorithms, and system design**
+- Also work with **Kotlin, Android, C++, and React**
+- I like building experimental projects and figuring out how things work under the hood
+
+### Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,kotlin,cpp,androidstudio,react,git&perline=10">
+</p>
